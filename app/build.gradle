@@ -1,12 +1,14 @@
 plugins {
     id 'com.android.library'
+    id 'maven-publish'
 }
+
+group = 'com.github.Sublimis'
 
 android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "lib.sublimis.arraydequelist"
         minSdk 16
         targetSdk 30
         versionCode 1
@@ -25,5 +27,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    buildToolsVersion '30.0.3'
+    compileSdkVersion 30
 }
 
