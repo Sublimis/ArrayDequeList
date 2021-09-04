@@ -13,7 +13,7 @@
  */
 
 
-package com.github.sublimis.arraydequelist;
+package lib.sublimis.arraydequelist;
 
 import java.util.RandomAccess;
 

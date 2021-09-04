@@ -13,7 +13,9 @@
  */
 
 
-package com.github.sublimis.arraydequelist;
+package lib.sublimis.arraydequelist;
+
+import com.github.sublimis.arraydequelist.IListDequeRndAccess;
 
 import java.util.Collection;
 import java.util.ConcurrentModificationException;

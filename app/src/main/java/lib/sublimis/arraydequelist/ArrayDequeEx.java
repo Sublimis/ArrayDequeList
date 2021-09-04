@@ -32,7 +32,7 @@
  * as explained at http://creativecommons.org/publicdomain/zero/1.0/.
  */
 
-package com.github.sublimis.arraydequelist;
+package lib.sublimis.arraydequelist;
 
 import android.annotation.SuppressLint;
 
