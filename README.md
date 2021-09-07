@@ -1,5 +1,4 @@
-[![Release](https://jitpack.io/v/Sublimis/ArrayDequeList.svg)]
-(https://jitpack.io/#Sublimis/ArrayDequeList)
+[![Release](https://jitpack.io/v/Sublimis/ArrayDequeList.svg)](https://jitpack.io/#Sublimis/ArrayDequeList)
 
 
 # ArrayDequeList
