@@ -1,3 +1,7 @@
+[![Release](https://jitpack.io/v/User/Repo.svg)]
+(https://jitpack.io/#User/Repo)
+
+
 # ArrayDequeList
 
 [ArrayDeque](https://developer.android.com/reference/java/util/ArrayDeque) that implements the [List](https://developer.android.com/reference/java/util/List) interface, to support fast random access to its elements (unlike pure ArrayDeque).
