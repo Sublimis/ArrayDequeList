@@ -13,5 +13,5 @@ This class is at the core of many computation algorithms in our app [Urban Biker
 Add the following line to your `build.gradle` file:
 
 ```
-implementation 'com.github.Sublimis:ArrayDequeList:v1.0'
+implementation 'com.github.Sublimis:ArrayDequeList:1.1'
 ```
